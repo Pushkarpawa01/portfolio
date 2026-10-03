@@ -1,0 +1,1 @@
+Open index.html. The uploaded photo is profile.jpg and replaces the code card in the Home section. Replace the email, GitHub and LinkedIn placeholders before publishing.
